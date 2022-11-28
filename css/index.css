@@ -1,0 +1,31 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.wallpaper {
+    background: linear-gradient(
+        rgba(0,0,0,0.5),
+        rgba(0,0,0,0.5)
+    ),
+    url("../img/background.jpg");
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+}
+.content-wallpaper {
+    position: absolute;
+    top: 0;
+    height: 100vh;
+    width: 100vw;
+    display: grid;
+    align-content: center;
+    justify-content: center;
+    text-align: center;
+    color: white;
+}
+
+/* .img-background {
+    width: 100%;
+} */

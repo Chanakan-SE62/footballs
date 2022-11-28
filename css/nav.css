@@ -1,0 +1,19 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.navbar {
+    background-color: rgb(140, 15, 57);
+}
+.collapse {
+    display: flex;
+    justify-content: end;
+}
+.navbar-brand , .nav-link {
+    color: white;
+}
+.nav-link:hover {
+    color: rgb(255, 185, 34);
+}
+
