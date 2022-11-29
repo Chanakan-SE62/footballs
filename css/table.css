@@ -1,0 +1,24 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.divTable {
+    margin: 6% 12% 5% 12%;
+}
+.text-table-title {
+    text-align: center;
+}
+.btn-filter {
+    border: none;
+    position: absolute;
+    right: 0%;
+}
+.table {
+    margin-top: 2%;
+}
+thead {
+    background-color: rgb(134, 16, 55);
+    color: #ffffff;
+}

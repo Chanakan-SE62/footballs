@@ -26,3 +26,7 @@
     text-align: center;
     color: white;
 }
+
+.container .text-title {
+    margin: 10% 0% 5% 0%;
+}

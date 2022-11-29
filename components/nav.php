@@ -15,7 +15,7 @@
                     <a class="nav-link" aria-current="page" href="#">หน้าหลัก</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="#">การแข่งขัน</a>
+                    <a class="nav-link" href="#tableIndex">การแข่งขัน</a>
                 </li>
                 <li class="nav-item">
                     <a class="nav-link" href="#">ผังการแข่งขัน</a>
@@ -25,17 +25,10 @@
                 </li>
                 <li class="nav-item dropdown">
                     <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" role="button" data-bs-toggle="dropdown" aria-expanded="false">
-                        แบ่งกลุ่ม
+                        สำหรับแอดมิน
                     </a>
                     <ul class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
-                        <li><a class="dropdown-item" href="#">กลุ่ม A</a></li>
-                        <li><a class="dropdown-item" href="#">กลุ่ม B</a></li>
-                        <li><a class="dropdown-item" href="#">กลุ่ม C</a></li>
-                        <li><a class="dropdown-item" href="#">กลุ่ม D</a></li>
-                        <li><a class="dropdown-item" href="#">กลุ่ม E</a></li>
-                        <li><a class="dropdown-item" href="#">กลุ่ม F</a></li>
-                        <li><a class="dropdown-item" href="#">กลุ่ม G</a></li>
-                        <li><a class="dropdown-item" href="#">กลุ่ม H</a></li>
+                        <li><a class="dropdown-item" href="#">เข้าสู่ระบบ</a></li>
                     </ul>
                 </li>
             </ul>
