@@ -1,0 +1,46 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.wallpaper-login {
+    background: linear-gradient(
+        rgba(0,0,0,0.5),
+        rgba(0,0,0,0.5)
+    ),
+    url("../img/wallpaperLogin.jpeg");
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    /* width: 100vw; */
+}
+.container {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    color: rgb(21, 21, 21);
+}
+
+.content-login {
+    position: relative;
+    margin-top: 14%;
+    padding: 3%;
+    background-color: #ffffff;
+    border-radius: 15px;
+}
+.text-title {
+    text-align: center;
+}
+.form-control {
+    width: 320px;
+}
+.btn-primary {
+    width: 320px;
+}
+
+@media only screen and (max-width: 1000px) {
+    .content-login {
+        margin-top: 35%;
+    }
+}

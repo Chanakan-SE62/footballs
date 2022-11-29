@@ -1,6 +1,6 @@
 <nav class="navbar fixed-top navbar-expand-lg ">
     <div class="container-fluid">
-        <a class="navbar-brand" href="#">
+        <a class="navbar-brand" href="index.php">
             <img src="./img/logo_football.png" alt="" width="100">
             Football Club
         </a>
@@ -12,10 +12,10 @@
         <div class="collapse navbar-collapse" id="navbarNavDropdown">
             <ul class="navbar-nav">
                 <li class="nav-item">
-                    <a class="nav-link" aria-current="page" href="#">หน้าหลัก</a>
+                    <a class="nav-link" aria-current="page" href="index.php">หน้าหลัก</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="#tableIndex">การแข่งขัน</a>
+                    <a class="nav-link" href="index.php #tableIndex">การแข่งขัน</a>
                 </li>
                 <li class="nav-item">
                     <a class="nav-link" href="#">ผังการแข่งขัน</a>
@@ -28,7 +28,7 @@
                         สำหรับแอดมิน
                     </a>
                     <ul class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
-                        <li><a class="dropdown-item" href="#">เข้าสู่ระบบ</a></li>
+                        <li><a class="dropdown-item" href="login.php">เข้าสู่ระบบ</a></li>
                     </ul>
                 </li>
             </ul>
