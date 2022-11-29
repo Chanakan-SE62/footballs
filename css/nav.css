@@ -13,6 +13,9 @@
 .navbar-brand , .nav-link {
     color: white;
 }
+.navbar-brand:hover {
+    color: white;
+}
 .nav-link:hover {
     color: rgb(255, 185, 34);
 }
