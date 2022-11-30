@@ -1,0 +1,77 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.nav-tabs {
+    margin-top: 5%;
+}
+.nav-link {
+    color: #7a0808;
+}
+.nav-link:hover {
+    color: #ff0000;
+}
+
+.div-manageTeam {
+    margin: 3% 0%;
+}
+.tap-text-title {
+    float: left;
+}
+.btn-addTeam {
+    background-color: #49af09;
+    color: #ffffff;
+    border-radius: 15px;
+    float: right;
+    box-shadow: 0px 0px 8px #a9a9a9;
+}
+.btn-addTeam:hover {
+    background-color: #3b8a0a;
+    color: #ffffff;
+    border-radius: 15px;
+}
+
+.table {
+    margin-top: 4%;
+    text-align: center;
+}
+
+.manage-imgFlag {
+    width: 80px;
+    box-shadow: 0px 0px 8px #cfcfcf;
+}
+
+.btn-editTeam , .btn-deleteTeam {
+    text-decoration: none;
+    color: #000000;
+    width: 90px;
+    height: 35px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    border-radius: 15px;
+}
+.btn-editTeam {
+    background-color: #ffc400;
+    box-shadow: 0px 0px 8px #a9a9a9;
+    border: none;
+}
+.btn-editTeam:hover {
+    background-color: #e8a600;
+    color: #ffffff;
+}
+.btn-deleteTeam {
+    background-color: #ff0000;
+    box-shadow: 0px 0px 8px #a9a9a9;
+}
+.btn-deleteTeam:hover {
+    background-color: #b00c0c;
+    color: #ffffff;
+}
+
+.manageAddButton {
+    float: right;
+    margin-top: 4%;
+}
