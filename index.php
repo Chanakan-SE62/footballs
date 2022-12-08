@@ -1,5 +1,5 @@
 <?php
-$title = "Index";
+$title = "Home Page";
 require_once("./components/header.php");
 ?>
 
