@@ -1,0 +1,23 @@
+.container {
+    margin-top: 80px;
+    padding: 2%;
+    display: flex;
+    justify-content: center;
+}
+.cardScoreTeam {
+    width: 1000px;
+    border-radius: 10px;
+    border: none;
+    box-shadow: 0px 0px 10px #c9c9c9;
+}
+.card-header {
+    background-color: #aaaaaa;
+    color: #ffffff;
+    font-size: 20px;
+}
+.imgFlagTeamm {
+    width: 40px;
+    margin-right: 10px;
+    box-shadow: 0px 0px 10px #adadad;
+    border-radius: 3px;
+}

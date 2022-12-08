@@ -19,8 +19,9 @@
                 <th scope="col">วันที่</th>
                 <th scope="col">เวลา</th>
                 <th scope="col">กลุ่ม</th>
-                <th scope="col">ทีม</th>
+                <th scope="col">ทีม 1</th>
                 <th scope="col">ผลคะแนน</th>
+                <th scope="col">ทีม 2</th>
             </tr>
         </thead>
         <tbody>
@@ -29,64 +30,72 @@
                 <td>30/11/2565</td>
                 <td>02.00 น.</td>
                 <td>B</td>
-                <td>อิหร่าน VS สหรัฐอเมริกา</td>
-                <td>0 - 1 (อยู่ระหว่างการแข่งขัน)</td>
+                <td>อิหร่าน</td>
+                <td>0-1</td>
+                <td>สหรัฐอเมริกา</td>
             </tr>
             <tr>
                 <th scope="row">2</th>
                 <td>30/11/2565</td>
                 <td>02.00 น.</td>
                 <td>B</td>
-                <td>เวลส์ VS อังกฤษ</td>
-                <td>0 - 2 (อยู่ระหว่างการแข่งขัน)</td>
+                <td>เวลส์</td>
+                <td>(อยู่ระหว่างการแข่งขัน)</td>
+                <td>อังกฤษ</td>
             </tr>
             <tr>
                 <th scope="row">3</th>
                 <td>30/11/2565</td>
                 <td>22.00 น.</td>
                 <td>D</td>
-                <td>ตูนิเซีย VS ฝรั่งเศส</td>
+                <td>ตูนิเซีย</td>
                 <td>-</td>
+                <td>ฝรั่งเศส</td>
             </tr>
             <tr>
                 <th scope="row">4</th>
                 <td>30/11/2565</td>
                 <td>22.00 น.</td>
                 <td>D</td>
-                <td>ออสเตรเลีย VS เดนมาร์ก</td>
+                <td>ออสเตรเลีย</td>
                 <td>-</td>
+                <td>เดนมาร์ก</td>
             </tr>
             <tr>
                 <th scope="row">5</th>
                 <td>31/11/2565</td>
                 <td>02.00 น.</td>
                 <td>C</td>
-                <td>โปแลนด์ VS อาร์เจนตินา</td>
+                <td>โปแลนด์</td>
                 <td>-</td>
+                <td>อาร์เจนตินา</td>
             </tr>
             <tr>
                 <th scope="row">6</th>
                 <td>31/11/2565</td>
                 <td>02.00 น.</td>
                 <td>C</td>
-                <td>ซาอุดีอาระเบีย VS เม็กซิโก</td>
+                <td>ซาอุดีอาระเบีย</td>
                 <td>-</td>
+                <td>เม็กซิโก</td>
             </tr>
             <tr>
                 <th scope="row">7</th>
                 <td>31/11/2565</td>
                 <td>22.00 น.</td>
                 <td>F</td>
-                <td>โครเอเชีย VS เบลเยียม</td>
+                <td>โครเอเชีย</td>
                 <td>-</td>
+                <td>เบลเยียม</td>
             </tr>
             <tr>
                 <th scope="row">8</th>
                 <td>31/11/2565</td>
                 <td>22.00 น.</td>
-                <td>C</td>
-                <td>แคนาดา VS โมร็อกโก</td>
+                <td>F</td>
+                <td>แคนาดา</td>
                 <td>-</td>
+                <td>โมร็อกโก</td>
             </tr>
         </tbody>
     </table>

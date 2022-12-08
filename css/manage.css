@@ -76,3 +76,9 @@
     margin-top: 4%;
 }
 
+.imgFlagTeamm {
+    width: 40px;
+    margin-right: 10px;
+    box-shadow: 0px 0px 10px #adadad;
+    border-radius: 3px;
+}
